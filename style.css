@@ -1,0 +1,291 @@
+.container {
+    background-color: #4F716B;
+    width: 80%;
+    height: 70vh;
+    margin-left: 10%;
+
+
+}
+
+nav {
+    display: flex;
+    margin-left: 60%;
+    margin-top: 15%;
+
+}
+
+span {
+    color: white;
+}
+
+ul li {
+    text-decoration: none;
+    display: inline;
+    padding: 7px;
+    margin-top: 10%;
+
+}
+.logo{
+    margin-left: 40%;
+    margin-top: -25%;
+    /* margin-right: 100%;
+    margin-top: -30%; */
+}
+.pl{
+    margin-top: -7%;
+    margin-left: 5%;
+}
+
+.skin {
+    margin-left: 10%;
+    margin-top: -5%;
+    color: white;
+
+}
+.skin img{
+    margin-left: 55%;
+    margin-top: -20%;
+
+}
+
+.btn {
+    border: solid 2px;
+    border-radius: 500px;
+    width: 150px;
+    height: 40px;
+    margin-left: 0%;
+    background-color: #4F716B;
+    color: white;
+    margin-top: -20%;
+}
+
+
+.now {
+    border: solid 2px;
+    border-radius: 500px;
+    width: 150px;
+    height: 40px;
+    margin-left: 1%;
+    margin-top: 1%;
+    color: #4F716B;
+
+}
+.sect1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    color: #4F716B;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -30%;
+}
+.hyd h3{
+    margin-top: 10%;
+    margin-left: 27%;
+    color: #4F716B;
+
+}
+.hyd h6{
+    margin-left: 25%;
+    
+
+}
+.cont h3{
+    margin-left: 27%;
+    margin-top: 5%;
+    color: #4F716B;
+
+}
+.cont h6{
+    
+    margin-left: 25%;
+    
+
+}
+.car h3{
+    display: flex;
+    justify-content: center;
+    margin-top:-27%;
+    margin-left: 35%;
+    color: #4F716B;
+    
+}
+
+
+
+.car h6{
+    
+    margin-top: -1%;
+    margin-left: 62%;
+    
+
+}
+.Oil h3{
+    display: flex;
+    justify-content: center;
+    margin-top:6%;
+    margin-left: 35%;
+    color: #4F716B;
+}
+.Oil h6{
+
+
+    margin-top: -1%;
+    margin-left: 62%;
+    
+
+}
+
+.sect2 h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    color: #4F716B;
+
+}
+.sect2 p{
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+.offer{
+    margin-left: 50%;
+    margin-top: 10%;
+    
+    }
+    .sect3{
+        background-color: #7CC2B8;
+        height: 25vh;
+        width: 75%;
+        margin-left: 20%;
+    }
+    .sect3 img{
+        margin-top: -15%;
+    }
+    .bt{
+        margin-left: 1%;
+        border: solid 2px;
+        border-radius: 500px;
+        border: none;
+        width: 150px;
+        height: 40px;
+        /* margin-top: -30%; */
+        
+    }
+    .sect4 h1{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        margin-top: 10%;
+        color: #AEBAB6;
+    }
+    .sect5{
+        display: flex;
+        justify-content: center;
+        margin-left: 7%;
+    
+       
+        }
+        .im1{
+            background-color: #F1F3F2;
+            height: 270px;
+            margin-right: 1%;
+            
+
+        }
+        .im2{
+            background-color: #F1F3F2;
+            height: 270px;
+            
+
+        }
+        .im3{
+            /* margin-top: -2%; */
+            background-color: #F1F3F2;
+            height: 270px;
+            /* margin-top: -2%; */
+            margin-left: 1%;
+            }
+            .im3 p{
+                margin-top: -14%;
+            }
+            .cont3{
+                color: #AEBAB6;
+                display: flex;
+                justify-content: center;
+                margin-top: 9%;
+            }
+            .man{
+                display: flex;
+                justify-content: center;
+            }
+            .man h3{
+                margin-top: -10%;
+                /* background-color:#D0CBC2; */
+                }
+                .man p{
+                    color: #AEBAB6;
+
+                }
+            
+                .man h6{
+                    margin-top: -5%;
+                    color: #AEBAB6;
+                }
+                .man2 img{
+                    margin-top: -3%;
+                }
+                .man2 h3{
+                    margin-top: -53%;
+                    margin-left: 20%;
+                }
+                .man2 h6{
+                    margin-left: 20%;
+                    margin-top: -5%;
+                    color: #AEBAB6;
+
+                }
+                .man2 p{
+                    margin-left: 20%;
+                    margin-top: -4%;
+                    color: #AEBAB6;
+
+                }
+                .man2{
+                    margin-left: 7%;
+                    
+                }
+                .footer{
+                    display: flex;
+                    margin-top: 8%; 
+                    background-color: #F2F2F2;
+                    
+                    
+
+                }
+                .us{
+                    margin-left: 5%;
+                }
+                .sc{
+                    margin-left: 15%;
+
+                }
+                .login{
+                    margin-left: 10%;
+                    /* display: flex;
+                    justify-content:center ;
+                    text-align: center; */
+                    /* margin-left: 20%; */
+
+                }
+                .lg{
+                    margin-left: 10%;
+                }
+                
+                    
+                
+
