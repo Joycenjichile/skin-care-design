@@ -35,6 +35,9 @@ ul li {
     margin-top: -7%;
     margin-left: 5%;
 }
+.pl:hover{
+    transform: scale(1.3);
+}
 
 .skin {
     margin-left: 10%;
@@ -46,6 +49,9 @@ ul li {
     margin-left: 55%;
     margin-top: -20%;
 
+}
+.skin img:hover{
+    transform: scale(1.3);
 }
 
 .btn {
@@ -82,6 +88,10 @@ ul li {
     justify-content: center;
     text-align: center;
     margin-top: -30%;
+
+}
+.img:hover{
+    transform: scale(1.3);
 }
 .hyd h3{
     margin-top: 10%;
@@ -165,6 +175,10 @@ ul li {
     }
     .sect3 img{
         margin-top: -15%;
+
+    }
+    .sect3 img:hover{
+        transform: scale(1.3);
     }
     .bt{
         margin-left: 1%;
@@ -197,11 +211,17 @@ ul li {
             
 
         }
+        .im1:hover{
+            transform: scale(1.3);
+        }
         .im2{
             background-color: #F1F3F2;
             height: 270px;
             
 
+        }
+        .im2:hover{
+            transform: scale(1.3);
         }
         .im3{
             /* margin-top: -2%; */
@@ -209,6 +229,9 @@ ul li {
             height: 270px;
             /* margin-top: -2%; */
             margin-left: 1%;
+            }
+            .im3:hover{
+                transform: scale(1.3);
             }
             .im3 p{
                 margin-top: -14%;
